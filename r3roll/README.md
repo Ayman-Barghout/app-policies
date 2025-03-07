@@ -1,12 +1,14 @@
 ## R3roll Discord Bot 
 
-<details>
+<details open>
 
 <summary><b>📜 Terms of Service</b></summary>
+
 
 Last Updated: 07-03-2025
 
 #### Acceptance of Terms
+
 By inviting and using R3roll (the "Bot"), you agree to comply with these Terms of Service.
 
 If you do not agree with these Terms, do not use the Bot.
@@ -43,7 +45,7 @@ For support, contact: pocean.development@gmail.com
 
 </details>
 
-<details>
+<details open>
 
 <summary><b>📜 Privacy Policy</b></summary>
 
