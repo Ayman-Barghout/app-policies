@@ -42,7 +42,7 @@ You have the right to:
 
     Remove the Bot from your server at any time.
     Request that your interactions be removed if data is stored (unlikely).
-    Report concerns about privacy to pocean.development@gmail.com.
+    Report concerns about privacy to [pocean.development@gmail.com](mailto:pocean.development@gmail.com).
 7. Security
 The Bot follows best practices to secure your data.
 We do not store sensitive information.
@@ -50,4 +50,4 @@ If a security breach occurs, users will be notified.
 8. Changes to This Policy
 We may update this Privacy Policy from time to time. Any changes will be announced in the Bot's support server.
 
-For questions, contact: pocean.development@gmail.com
+For questions, contact: [pocean.development@gmail.com](mailto:pocean.development@gmail.com)

@@ -36,7 +36,7 @@ Servers found abusing the Bot may be blacklisted.
 The Bot is provided "as is" without warranties.
 Use the Bot at your own risk.
 6. Governing Law
-These Terms are governed by [Your Country's Law].
+These Terms are governed by EU laws.
 
-For support, contact: pocean.development@gmail.com
+For support, contact: [pocean.development@gmail.com](mailto:pocean.development@gmail.com)
 
